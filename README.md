@@ -1,5 +1,5 @@
 # hello-world
 first repository
 
-Wadup World!
-<b>Commiting with git</b>
+Wadup World!<br>
+<b>Committing with git</b>
